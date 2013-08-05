@@ -1,4 +1,4 @@
-loggage_local
+luggage_local
 =============
 
 My luggage.local file
