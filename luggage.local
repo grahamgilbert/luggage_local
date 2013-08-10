@@ -1,0 +1,4 @@
+l_System_Library_User_Template_Library_Preferences:
+	@sudo mkdir -p ${WORK_D}/System/Library/User\ Template/English.lproj/Library/Preferences
+	@sudo chown root:wheel ${WORK_D}/System/Library/User\ Template/English.lproj/Library/Preferences
+	@sudo chmod 700 ${WORK_D}/System/Library/User\ Template/English.lproj/Library/Preferences
